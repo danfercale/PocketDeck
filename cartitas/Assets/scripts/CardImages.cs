@@ -31,7 +31,6 @@ public class CardImages : MonoBehaviour {
             Card.transform.SetParent(transform, Deck.transform);
             Card.SetActive(false);
             CardsObjectArray[i] = Card;               
-            Debug.Log(CardsObjectArray[i]);
             CardObjectsInDeckList.Insert(i, Card);
             
         }
