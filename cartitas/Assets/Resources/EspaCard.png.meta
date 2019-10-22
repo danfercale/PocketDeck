@@ -1,7 +1,190 @@
 fileFormatVersion: 2
 guid: e389322ab6276e34cb0a7c5cbe512dc4
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -451156949204310024
+    second: EspaCard_0
+  - first:
+      213: -7412833850168802305
+    second: EspaCard_1
+  - first:
+      213: -3082529155709316957
+    second: EspaCard_2
+  - first:
+      213: 7243320424122980432
+    second: EspaCard_3
+  - first:
+      213: -314011891213193272
+    second: EspaCard_4
+  - first:
+      213: 1330370209606302425
+    second: EspaCard_5
+  - first:
+      213: -1582975272702040999
+    second: EspaCard_6
+  - first:
+      213: 8213879923941186510
+    second: EspaCard_7
+  - first:
+      213: 8820979949645946550
+    second: EspaCard_8
+  - first:
+      213: -359281877967830903
+    second: EspaCard_9
+  - first:
+      213: -700364374285402890
+    second: EspaCard_10
+  - first:
+      213: -8144164242379146308
+    second: EspaCard_11
+  - first:
+      213: 7423413123488259920
+    second: EspaCard_12
+  - first:
+      213: -7662567687412979612
+    second: EspaCard_13
+  - first:
+      213: 5855548204302295540
+    second: EspaCard_14
+  - first:
+      213: 8591051609268898937
+    second: EspaCard_15
+  - first:
+      213: 8169708094836525361
+    second: EspaCard_16
+  - first:
+      213: 4291049628765679037
+    second: EspaCard_17
+  - first:
+      213: 2222051146072855062
+    second: EspaCard_18
+  - first:
+      213: 2926587857962631454
+    second: EspaCard_19
+  - first:
+      213: 182411584617641192
+    second: EspaCard_20
+  - first:
+      213: -7931338764481166806
+    second: EspaCard_21
+  - first:
+      213: -1391824613534858849
+    second: EspaCard_22
+  - first:
+      213: -472759837134088327
+    second: EspaCard_23
+  - first:
+      213: -5353479043743417864
+    second: EspaCard_24
+  - first:
+      213: 8633749029799812010
+    second: EspaCard_25
+  - first:
+      213: 186924551000443378
+    second: EspaCard_26
+  - first:
+      213: -8742588281486473054
+    second: EspaCard_27
+  - first:
+      213: 5868516999896465142
+    second: EspaCard_28
+  - first:
+      213: -7812229147790336080
+    second: EspaCard_29
+  - first:
+      213: -2804329752929884292
+    second: EspaCard_30
+  - first:
+      213: -4509124953827646941
+    second: EspaCard_31
+  - first:
+      213: 1720543641446440116
+    second: EspaCard_32
+  - first:
+      213: 7688772445673237552
+    second: EspaCard_33
+  - first:
+      213: 3633197588790651246
+    second: EspaCard_34
+  - first:
+      213: 3331102763325805147
+    second: EspaCard_35
+  - first:
+      213: 454806777353128452
+    second: EspaCard_36
+  - first:
+      213: 4640269129866883413
+    second: EspaCard_37
+  - first:
+      213: 1929610946013108648
+    second: EspaCard_38
+  - first:
+      213: -4338272604770711771
+    second: EspaCard_39
+  - first:
+      213: 2446114145208850669
+    second: EspaCard_40
+  - first:
+      213: -8712608846855751810
+    second: EspaCard_41
+  - first:
+      213: -6250422410345279750
+    second: EspaCard_42
+  - first:
+      213: 7854075527777549908
+    second: EspaCard_43
+  - first:
+      213: -4338824732456654228
+    second: EspaCard_44
+  - first:
+      213: -1563420867223668939
+    second: EspaCard_45
+  - first:
+      213: -1281232760174204238
+    second: EspaCard_46
+  - first:
+      213: -5847990567691288361
+    second: EspaCard_47
+  - first:
+      213: -2071420943961905715
+    second: EspaCard_48
+  - first:
+      213: 6927304120744511835
+    second: EspaCard_49
+  - first:
+      213: 2780626480172795137
+    second: EspaCard_50
+  - first:
+      213: -1394081616540357622
+    second: EspaCard_51
+  - first:
+      213: -7379928045135008655
+    second: EspaCard_52
+  - first:
+      213: -651254066277180739
+    second: EspaCard_53
+  - first:
+      213: -7683481309987455729
+    second: EspaCard_54
+  - first:
+      213: 6431782714999515303
+    second: EspaCard_55
+  - first:
+      213: 2958893809717956265
+    second: EspaCard_56
+  - first:
+      213: -6071694467025917520
+    second: EspaCard_57
+  - first:
+      213: 9162595471212866697
+    second: EspaCard_58
+  - first:
+      213: -7868193616772754103
+    second: EspaCard_59
+  - first:
+      213: 6148528184322799184
+    second: EspaCard_60
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,12 +223,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
-  spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMode: 2
+  spriteExtrude: 5
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 1000
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -70,9 +253,1374 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: EspaCard_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1276
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d2de6229447c345961a03a3ae628dd
+      internalID: -451156949204310024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_1
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1276
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9519763ad3f3d243afbd504f1dc2f54
+      internalID: -7412833850168802305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_2
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1276
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55ca5b0bd017ef4f9ca21771a2bf6ea
+      internalID: -3082529155709316957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_3
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1276
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0a0bed9c7e696418b1c86331688449
+      internalID: 7243320424122980432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_4
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1276
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09176d78e46f16348b8859ce48623175
+      internalID: -314011891213193272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_5
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1276
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0518ac05f39499d43a8d06145f0f09f1
+      internalID: 1330370209606302425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_6
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1276
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537f3a0c35d32a84d9e8db75b9b0316e
+      internalID: -1582975272702040999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_7
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1276
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6036c23d490f83641b36647ed3274b37
+      internalID: 8213879923941186510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_8
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1276
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63284a46de292f41958a49bf2d433e5
+      internalID: 8820979949645946550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_9
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 1276
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0df32cfb189c32419b689a582851cc2
+      internalID: -359281877967830903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_10
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 1276
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb94b4a685dedb498886dbc04835ee1
+      internalID: -700364374285402890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_11
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1276
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3959325d8fb51641b5889d792ddd717
+      internalID: -8144164242379146308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 957
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2f4cb196578e94981cd9175acb54ee
+      internalID: 7423413123488259920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 957
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f89575c2aa7e574e907ef013e37915b
+      internalID: -7662567687412979612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_14
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 957
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a338f51ba34ac468fd4136033a738e
+      internalID: 5855548204302295540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_15
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 957
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006a93a8f80e2a7499ce186dec59f056
+      internalID: 8591051609268898937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_16
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 957
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3788632ee414cd74d83b3e5c53fbcfe9
+      internalID: 8169708094836525361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_17
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 957
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b02abae2c3f344585e2d26ce51d3df
+      internalID: 4291049628765679037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_18
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 957
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281d2e9aa153e104b88bbc1510677df1
+      internalID: 2222051146072855062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_19
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 957
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0465f9cd3ff524daa969cadba6f112
+      internalID: 2926587857962631454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_20
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 957
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c54ba80b60b7ef49b75cecc83bd4102
+      internalID: 182411584617641192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_21
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 957
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cef6678641f4734badc56f36bef6f5d
+      internalID: -7931338764481166806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_22
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 957
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5eb8051989295846b66afb4d06cfaf2
+      internalID: -1391824613534858849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_23
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 957
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5d4d744ddd6b84596cfaca58792775
+      internalID: -472759837134088327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 638
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b9695747c3fef4f9c16092ecff31b9
+      internalID: -5353479043743417864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_25
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 638
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996be9b4c8a27fa4a9136b793d886245
+      internalID: 8633749029799812010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_26
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 638
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89ca2cd227bc324e9652f2254bf14cb
+      internalID: 186924551000443378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_27
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 638
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22792b1a4dd335f449cbb848f87e5188
+      internalID: -8742588281486473054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_28
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 638
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3908e42e95edf7540af446a40206eb08
+      internalID: 5868516999896465142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_29
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 638
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a664c32710a37c147b2dcbe03e24a9c8
+      internalID: -7812229147790336080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_30
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 638
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5d8669d3eaf81458da508922cc62ff
+      internalID: -2804329752929884292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_31
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 638
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43df338899b6eb543b067d32fd188d04
+      internalID: -4509124953827646941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_32
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 638
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e3315c0c467a745a44824fd2668c81
+      internalID: 1720543641446440116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_33
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 638
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496b6f534c3bcf64f93430acf4c463bd
+      internalID: 7688772445673237552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_34
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 638
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19609b121ea29048bb2d9a9f9e918d1
+      internalID: 3633197588790651246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_35
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 638
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107e1ea4fdd86c54c90497cae1d31a48
+      internalID: 3331102763325805147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc8075198379fa49ac4cd6079077212
+      internalID: 454806777353128452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_37
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 319
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a6094a0242b9d4e80e0ebd8db324f1
+      internalID: 4640269129866883413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_38
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 319
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcfc42067f0b44468ad4fc433a5d4be
+      internalID: 1929610946013108648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_39
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 319
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab33c46bd818ed14684ca5a176f5d1fe
+      internalID: -4338272604770711771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_40
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 319
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8003478f167ae4c8d069427bf37bc1
+      internalID: 2446114145208850669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_41
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 319
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88452de5adc66f042a0c8ac6f7c0ff20
+      internalID: -8712608846855751810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_42
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 319
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a319869174ef644a7643ad8cafaa32
+      internalID: -6250422410345279750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_43
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 319
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53207631c7823e243921156312282bd6
+      internalID: 7854075527777549908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_44
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 319
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacc0fcfe6db9db45a3a65a34a06e9b8
+      internalID: -4338824732456654228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_45
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 319
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db5e433bb8b86f4c83c9f5b86069ea4
+      internalID: -1563420867223668939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_46
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 319
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea02d93e1e2e2bd4182a223b026b49d2
+      internalID: -1281232760174204238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_47
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 319
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe5bcd81317aec41842d3873b87d80c
+      internalID: -5847990567691288361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc2bb966b2535246be5891b91c17c55
+      internalID: -2071420943961905715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_49
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc708fb2c37f0f243b2a93637d9143b9
+      internalID: 6927304120744511835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_50
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba1dee2263a02d49a4cab77593e3dcf
+      internalID: 2780626480172795137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_51
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73c0f3f504ef154788bc1825ca361f6
+      internalID: -1394081616540357622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_52
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 0
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6739644705a2e21408a6a18cc5a497de
+      internalID: -7379928045135008655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_53
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 0
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd46c7584eb437946b2982450d750f26
+      internalID: -651254066277180739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_54
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 0
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d35b991aeb6a574387db927475091b0
+      internalID: -7683481309987455729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_55
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 0
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b2235628c7a6849883a884368660bb
+      internalID: 6431782714999515303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_56
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbb4415a2d68674f83b5c09ff29b2b0
+      internalID: 2958893809717956265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_57
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 0
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465497c021e0b9b458f9be61004559b2
+      internalID: -6071694467025917520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_58
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 0
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd69aaecc3ff734dbf5a786e1ea3445
+      internalID: 9162595471212866697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_59
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 0
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562aedf34c18d2e47a49cdbc46409f0e
+      internalID: -7868193616772754103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EspaCard_60
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 380
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53117161fb072cf499e8d743f43ce272
+      internalID: 6148528184322799184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -83,7 +1631,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-  spritePackingTag: 
+  spritePackingTag: 60
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
   userData: 

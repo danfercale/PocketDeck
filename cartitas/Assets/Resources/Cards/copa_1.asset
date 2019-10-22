@@ -16,6 +16,6 @@ MonoBehaviour:
   Cardname: copa_1
   Cardvalue: 1
   Cardtype: copa
-  Cardsprite: {fileID: 7423413123488259920, guid: 5b3e77296b86b1d419fc3a20d6c2b1f3,
+  Cardsprite: {fileID: 7423413123488259920, guid: e389322ab6276e34cb0a7c5cbe512dc4,
     type: 3}
   Cardlocation: Deck

@@ -18,28 +18,18 @@ public class CardProperties : MonoBehaviour
 
    public void Start()
     {
-
-        cardname = card.Cardname;
-        value = card.Cardvalue;
-        type = card.Cardtype;
-        sprite = card.Cardsprite;
-        location = card.Cardlocation;
-        handSlot = card.CardhandSlot;
-        cardobject.AddComponent(typeof(Image));
-        cardobject.AddComponent(typeof(Button));
-        cardobject.GetComponent<Image>().sprite = sprite;
-        cardobject.GetComponent<RectTransform>().sizeDelta = new Vector2(75, 100);
-        cardobject.SetActive(false);
-
-        
-
-
+        //cardname = card.Cardname;
+        //value = card.Cardvalue;
+        //type = card.Cardtype;
+        //sprite = card.Cardsprite;
+        //location = card.Cardlocation;
+        //handSlot = card.CardhandSlot;
+        this.cardobject.AddComponent(typeof(Image));
+        this.cardobject.AddComponent(typeof(Button));
+        this.cardobject.GetComponent<Image>().sprite = sprite;
+        this.cardobject.GetComponent<RectTransform>().sizeDelta = new Vector2(75, 100);
+        this.cardobject.SetActive(false);
     }
-
-
-
-
-
 
 }
 
