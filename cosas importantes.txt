@@ -1,0 +1,8 @@
+
+que se puedan mover las cartas de la mano a la mesa // opcional: que sean deslizables
+
+crear juego simplón.
+
+
+
+de momento el reset no funciona y el juego consiste en llegar a meter el rey en medio xD.
