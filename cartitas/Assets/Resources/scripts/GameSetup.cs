@@ -39,8 +39,12 @@ public class GameSetup : MonoBehaviour
         }
 
         for(int i = 0; maxcardsinhand > i ; i++)      //este bucle se encarga de asignar la posición de los huecos en la mano e inicializarlos como no ocupados (false)
-        {       
-            movetohandSlotposition.Insert(i, new Vector3(1.18f*i, 0, 0));  //antes era 80i, lo he tenido que cambiar porque me enviaba las cartas a partla al cambiar el tipo de canvas
+        {
+
+            //movetohandSlotposition.Insert(i, new Vector3(1.18f*i, 0, 0));  //antes era 80i, lo he tenido que cambiar porque me enviaba las cartas a partla al cambiar el tipo de canvas
+
+            Vector3 tempvector3 = MainCamera.ViewportToWorldPoint(new Vector3(0.1f + (0.15f * i), 0.1f, MainCamera.nearClipPlane)); 
+            movetohandSlotposition.Insert(i, tempvector3);
             cardinhandSlot.Insert(i, false);
         }
            
