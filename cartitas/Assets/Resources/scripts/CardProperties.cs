@@ -18,12 +18,12 @@ public class CardProperties : MonoBehaviour
 
    public void Start()
     {
-        //cardname = card.Cardname;
-        //value = card.Cardvalue;
-        //type = card.Cardtype;
+        cardname = card.Cardname;
+        value = card.Cardvalue;
+        type = card.Cardtype;
         //sprite = card.Cardsprite;
-        //location = card.Cardlocation;
-        //handSlot = card.CardhandSlot;
+        location = card.Cardlocation;
+        handSlot = card.CardhandSlot;
         this.cardobject.AddComponent(typeof(Image));
         this.cardobject.AddComponent(typeof(Button));
         this.cardobject.GetComponent<Image>().sprite = sprite;

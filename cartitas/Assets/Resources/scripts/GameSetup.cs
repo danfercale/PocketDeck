@@ -7,9 +7,8 @@ using UnityEngine.EventSystems;
 
 public class GameSetup : MonoBehaviour
 {
-    
-    
-
+    public PlayerManager playermanager;
+    public Camera MainCamera;
 
     int maxcardsinhand = 5;                                    //número máximo de cartas permitidas en la mano
     public List<Vector3> movetohandSlotposition;               //vector 3 dimensional que se encarga de mover las cartas a su sitio
@@ -37,9 +36,8 @@ public class GameSetup : MonoBehaviour
         }
 
         for(int i = 0; maxcardsinhand > i ; i++)      //este bucle se encarga de asignar la posición de los huecos en la mano e inicializarlos como no ocupados (false)
-        {
-
-            movetohandSlotposition.Insert(i, new Vector3(80*i, 0, 0));
+        {       
+            movetohandSlotposition.Insert(i, new Vector3(1.18f*i, 0, 0));  //antes era 80i, lo he tenido que cambiar porque me enviaba las cartas a partla al cambiar el tipo de canvas
             cardinhandSlot.Insert(i, false);
         }
            
@@ -60,6 +58,7 @@ public class GameSetup : MonoBehaviour
                 {
                     int RandomDraw = Random.Range(0, deckcardnumber);
                     DeckList[RandomDraw].SetActive(true);
+                    DeckList[RandomDraw].layer = 7 + playermanager.selectedplayer;                  //se encarga de meter la carta en una capa que solo pueda ver la cámara de ese jugador
                     DeckList[RandomDraw].GetComponent<CardProperties>().location = "Playerhand";
                     DeckList[RandomDraw].GetComponent<CardProperties>().handSlot = i;
                     DeckList[RandomDraw].transform.Translate(movetohandSlotposition[i]);
@@ -91,8 +90,10 @@ public class GameSetup : MonoBehaviour
 
         if(firstmovement == true || LastplayedCard.GetComponent<CardProperties>().value < EventSystem.current.currentSelectedGameObject.GetComponent<CardProperties>().value )
         {
-            Vector3 tempxyz = EventSystem.current.currentSelectedGameObject.GetComponent<RectTransform>().transform.localPosition;
-            EventSystem.current.currentSelectedGameObject.GetComponent<RectTransform>().transform.Translate(-tempxyz);
+            //Vector3 tempxyz = EventSystem.current.currentSelectedGameObject.GetComponent<RectTransform>().transform.localPosition.normalized;
+            //EventSystem.current.currentSelectedGameObject.GetComponent<RectTransform>().transform.Translate(-tempxyz);  
+            Vector3 p = MainCamera.ViewportToWorldPoint(new Vector3(0.5f, 0.5f, MainCamera.nearClipPlane));                                       //MainCamera.ViewportToWorldPoint se encarga de poner un objeto en un lugar determinado de la pantalla gracias a un Vector3, siendo (0,0...) la esquina inferior izquierda y (1,1..) la esquina superior derecha
+            EventSystem.current.currentSelectedGameObject.GetComponent<RectTransform>().SetPositionAndRotation(p, new Quaternion(0, 0, 0, 0));    //lo dicho en la anterior linea mas el quaternion, que no entiendo muy bien que es así que lo dejo en 0 todo
             LastplayedCard = EventSystem.current.currentSelectedGameObject;
             CardsinPlayerHand.Remove(EventSystem.current.currentSelectedGameObject);
             cardinhandSlot[EventSystem.current.currentSelectedGameObject.GetComponent<CardProperties>().handSlot] = false;

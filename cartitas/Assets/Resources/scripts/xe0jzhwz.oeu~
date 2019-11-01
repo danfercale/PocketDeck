@@ -1,0 +1,19 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.UI;
+
+[CreateAssetMenu]
+
+//scriptable object hace que se pueda crear con el botón derecho 
+public class Player : ScriptableObject
+{
+
+    public int Playernumber;
+    public string Playername;
+    public Camera PlayerCamera;
+
+
+                               //propiedades del player
+     
+}
