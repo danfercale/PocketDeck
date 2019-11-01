@@ -10,7 +10,7 @@ public class GameSetup : MonoBehaviour
     public PlayerManager playermanager;
     public Camera MainCamera;
 
-    int maxcardsinhand = 5;                                    //número máximo de cartas permitidas en la mano
+    int maxcardsinhand = 8;                                    //número máximo de cartas permitidas en la mano
     public List<Vector3> movetohandSlotposition;               //vector 3 dimensional que se encarga de mover las cartas a su sitio
     int deckcardnumber = 0;                                    //cartas en la baraja
     int cardsinhand = 0;                                       //castas en la mano
@@ -18,6 +18,8 @@ public class GameSetup : MonoBehaviour
 
   
     public List<bool> cardinhandSlot;          //controla si un hueco de la mano esta ocupado o no, siendo false que está vacío
+
+    public GameObject Cards;             //el array que contiene todos los objetos que tienen dentro los atributos de la carta
     public GameObject[] DeckArray;             //el array que contiene todos los objetos que tienen dentro los atributos de la carta
     public List<GameObject> DeckList;          //lista de cartas de la baraja
     public List<GameObject> CardsinPlayerHand; //lista de cartas en la mano del jugador
@@ -25,10 +27,11 @@ public class GameSetup : MonoBehaviour
     public GameObject LastplayedCard;          //última carta jugada
     
 
-
+    
     void Start()
     {
-        for (int i = 0; DeckArray.Length > i; i++)     //este bucle se encarga de meter las cartas en el array deck y de guardar su numero en una variable
+        Cards = Cards;
+        for(int i = 0; DeckArray.Length > i; i++)     //este bucle se encarga de meter las cartas en el array deck y de guardar su numero en una variable
         {
             DeckList.Add(DeckArray[i]);
             deckcardnumber++;
@@ -61,7 +64,7 @@ public class GameSetup : MonoBehaviour
                     DeckList[RandomDraw].layer = 7 + playermanager.selectedplayer;                  //se encarga de meter la carta en una capa que solo pueda ver la cámara de ese jugador
                     DeckList[RandomDraw].GetComponent<CardProperties>().location = "Playerhand";
                     DeckList[RandomDraw].GetComponent<CardProperties>().handSlot = i;
-                    DeckList[RandomDraw].transform.Translate(movetohandSlotposition[i]);
+                    DeckList[RandomDraw].GetComponent<RectTransform>().SetPositionAndRotation(movetohandSlotposition[i], new Quaternion(0,0,0,0));
                     DeckList[RandomDraw].GetComponent<Button>().onClick.AddListener(movetoboard);
                     CardsinPlayerHand.Add(DeckList[RandomDraw]);
                     DeckList.Remove(DeckList[RandomDraw]);
